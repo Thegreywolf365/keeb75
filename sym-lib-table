@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "Cherry MX Breakout Board (Kailh Socket)-cache")(type "Legacy")(uri "${KIPRJMOD}/Cherry-MX-Breakout-Board/Cherry MX Breakout Board/Cherry MX Breakout Board (Kailh Socket)-cache.lib")(options "")(descr ""))
+)
