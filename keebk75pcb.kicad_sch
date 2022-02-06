@@ -1328,7 +1328,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-LED") (at 55.88 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 24a25ee7-67e5-494b-a24f-d4cbee581e70)
-    (property "Reference" "MX2" (id 0) (at 58.0356 124.46 0)
+    (property "Reference" "MX3" (id 0) (at 58.0356 124.46 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-LED" (id 1) (at 58.0356 125.73 0)
@@ -1509,7 +1509,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-LED") (at 71.12 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5ee9ead0-498c-4691-8e11-ec4be578bc9b)
-    (property "Reference" "MX3" (id 0) (at 73.2756 102.87 0)
+    (property "Reference" "MX2" (id 0) (at 73.2756 102.87 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-LED" (id 1) (at 73.2756 104.14 0)
@@ -1921,10 +1921,10 @@
     (path "/709a99a4-7613-4bf4-b152-00cd1c686bdc"
       (reference "MX1") (unit 1) (value "MX-LED") (footprint "MX_Only:MXOnly-1U-Hotswap-LED")
     )
-    (path "/24a25ee7-67e5-494b-a24f-d4cbee581e70"
+    (path "/5ee9ead0-498c-4691-8e11-ec4be578bc9b"
       (reference "MX2") (unit 1) (value "MX-LED") (footprint "MX_Only:MXOnly-1U-Hotswap-LED")
     )
-    (path "/5ee9ead0-498c-4691-8e11-ec4be578bc9b"
+    (path "/24a25ee7-67e5-494b-a24f-d4cbee581e70"
       (reference "MX3") (unit 1) (value "MX-LED") (footprint "MX_Only:MXOnly-1U-Hotswap-LED")
     )
     (path "/c57caa0f-32ee-4549-96b9-9d066cc84731"
